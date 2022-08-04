@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+<template id="email_demo_template" label="demo email template " file="email_demo_template.html" type="html" module="Demo_EmailTemp" area="frontend"/>
+</config>
